@@ -22,7 +22,7 @@ export default function Products() {
         }, []);
     
     return (
-        <section className="w-full min-h-[100vh] bg-[#00472e] px-10 py-10">
+        <section id="product" className="w-full min-h-[100vh] bg-[#00472e] px-10 py-10">
 
             <h2 className="text-5xl font-bold mb-10 text-red-800">
                 Nos Produits
